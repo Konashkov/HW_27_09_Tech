@@ -1,0 +1,17 @@
+.Img{
+    width: 100%;
+}
+.one{
+    border-left: green 2px solid;
+    width: 50%;
+    font-family: 'Yaldevi', sans-serif;
+    color:grey;
+}
+.two{
+    word-wrap: break-word;
+    width: 100%;
+}
+.three{
+    display: flex;
+    justify-content: space-between;
+}
