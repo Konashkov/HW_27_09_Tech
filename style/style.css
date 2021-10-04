@@ -5,9 +5,10 @@
     border-left: green 2px solid;
     width: 50%;
     font-family: 'Yaldevi', sans-serif;
-    color:grey;
+    color:#1f1f1f;
 }
 .two{
+    padding-left:15px ;
     word-wrap: break-word;
     width: 100%;
 }
